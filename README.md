@@ -1,12 +1,12 @@
 # Ultimate-Quantitative-Finance-Resources-KC-
  
- -  Top 50 Essential Resources &amp;
- -  Ultimate Quantitative Finance Resources Catalog &amp;
- -  Backtesting Framework Guide &amp;
+ -  Top 50 Essential Resources
+ -  Ultimate Quantitative Finance Resources Catalog
+ -  Backtesting Framework Guide
 
 ---
    
-# 1. Top 65 Essential Resources 🚀 
+# 1. Top 50 Essential Resources 🚀 
 
 ---
 
