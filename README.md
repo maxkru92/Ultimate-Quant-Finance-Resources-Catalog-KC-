@@ -131,7 +131,6 @@
 ------------
 
 # 2. Ultimate Quantitative Finance Resources Catalog 📊 
-## **KRUPP CAPITAL TRADING SUITE** - Complete Reference Guide
 
 ---
 
@@ -619,7 +618,6 @@ Use this catalog as:
 ---------
 
 # 3. Backtesting Frameworks Comparison Matrix 📊
-## KRUPP CAPITAL TRADING SUITE
 
 ---
 
