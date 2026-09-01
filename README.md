@@ -6,11 +6,11 @@
 
 ---
    
-# 1. Quick Reference Card - Top 50 Essential Resources 🚀 
+# 1. Top 65 Essential Resources 🚀 
 
 ---
 
-## ⚡ Essential R Packages (Top 15)
+## ⚡ Essential R Packages (Top 10)
 1. **quantmod** - Market data & technical analysis
 2. **PerformanceAnalytics** - Portfolio metrics
 3. **tseries** - Time series functions
@@ -24,7 +24,7 @@
 
 ---
 
-## ⚡ Essential Python Libraries (Top 15)
+## ⚡ Essential Python Libraries (Top 10)
 1. **pandas** - Data structures
 2. **numpy** - Numerical computing
 3. **scikit-learn** - ML algorithms
